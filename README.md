@@ -33,7 +33,9 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Physics-Papers/blob/master/qpm(19).pdf" style="text-decoration:none;">Information, Physics, Quantum: The Search for Links</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Physics-Papers/blob/master/qpm(20).pdf" style="text-decoration:none;">On the Theory of Quanta</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Physics-Papers/blob/master/qpm(21).pdf" style="text-decoration:none;">On the Electrodynamics of Moving Bodies</a></b></li>
 
 
 
